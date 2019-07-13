@@ -1,0 +1,17 @@
+*{
+  text-align: right;
+}
+#div1{
+  background-color: rgba(0,0,255,0.2);
+  text-align: center;
+}
+li{
+  list-style: none;
+  display: inline-block;
+}
+h1,p:hover{
+  color: red;
+  text-align: center;
+  border: 1px solid rgba(0,0,200,0.6);
+  cursor: pointer;
+}

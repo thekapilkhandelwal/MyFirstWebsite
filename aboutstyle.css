@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+}
+p{
+  text-height: 20px;
+  font-style: italic;
+  font-size: 130%;
+  font-weight: lighter;
+}
+img{
+  float: right;
+}
+footer{
+  clear: both;
+  text-align: right;
+  color: white;
+}
